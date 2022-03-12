@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "575817079868",
+    "project_id": "fluttube-3c274",
+    "storage_bucket": "fluttube-3c274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575817079868:android:e589aa1e51257ce26d3739",
+        "android_client_info": {
+          "package_name": "com.example.fluttube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575817079868-l214qn03osr3n085v4qf7u4a6tha6trc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fluttube",
+            "certificate_hash": "1628c9a97f246370164af381929db2ea4c814cdd"
+          }
+        },
+        {
+          "client_id": "575817079868-bdfi12mh3g5d7b2uoipohtu43furfjua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlARQNYTKt52wSxtUlUNa42z2aIuLZX1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575817079868-bdfi12mh3g5d7b2uoipohtu43furfjua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
